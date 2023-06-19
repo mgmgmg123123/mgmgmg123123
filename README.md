@@ -1,4 +1,7 @@
-### Hi 👋, I'm mogu!
+### My Activities
+
+![](https://komarev.com/ghpvc/?username=mgmgmg123123)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgmgmg123123&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgmgmg123123&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgmgmg123123&theme=zenburn)
